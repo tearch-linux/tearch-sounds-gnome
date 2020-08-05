@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=TeArch
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
